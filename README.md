@@ -20,7 +20,7 @@ I'm a passionate software engineer with a diverse range of skills and interests.
 ![](https://github-profile-trophy.vercel.app/?username=amantk4t&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amantk4t&limit=5&theme=dark&combine_all_yearly_contributions=true&no-bg=true&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=amantk4t&limit=5&theme=dark&combine_all_yearly_contributions=true&no-frame=true)
 
 
 ---
